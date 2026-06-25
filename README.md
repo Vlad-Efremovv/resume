@@ -25,13 +25,47 @@
 
 ## 🛠 Технологический стек
 
-| Область | Технологии |
-|---------|------------|
-| **Backend** | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Databases** | ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) |
+### Backend-разработка
 
+| Категория | Технологии |
+|-----------|------------|
+| **Языки** | C#  |
+| **Фреймворки** | NestJS, ASP.NET Core, Express.js |
+| **API** | RESTful API, GraphQL, WebSocket |
+| **Аутентификация** | JWT, OAuth 2.0, SSO |
+| **Микросервисы** | RabbitMQ, Docker |
+| **ORM** | Entity Framework, TypeORM, Sequelize |
+| **Тестирование** | xUnit, NUnit |
+| **Документация API** | Swagger/OpenAPI, Postman |
+
+### Mobile-разработка
+
+| Категория | Технологии |
+|-----------|------------|
+| **Фреймворк** | Flutter |
+| **Язык** | Dart |
+| **State Management** | Provider, BLoC, GetX |
+| **Базы данных** | SQLite, Hive, SharedPreferences |
+| **API клиенты** | Dio, HTTP |
+| **Firebase** | Firestore, Authentication, Cloud Messaging, Analytics |
+| **Нативные мосты** | Platform Channels (Java/Kotlin) |
+
+### Базы данных и хранилища
+
+| Категория | Технологии |
+|-----------|------------|
+| **Реляционные** | MS SQL Server, PostgreSQL, MySQL |
+| **NoSQL** | MongoDB |
+| **Облачные** | Firebase Firestore |
+| **Проектирование** | ER-диаграммы, оптимизация запросов, хранимые процедуры, триггеры |
+
+### Инструменты
+
+| Категория | Технологии |
+|-----------|------------|
+| **Системы контроля** | Git (GitHub, GitLab) |
+| **CI/CD** | GitHub Actions, GitLab CI |
+| **Контейнеризация** | Docker, Docker Compose |
 ---
 
 ## 💼 Опыт работы
